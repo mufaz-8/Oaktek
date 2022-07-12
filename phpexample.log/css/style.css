@@ -1,0 +1,32 @@
+.cont{
+  background-color: white;
+  margin-left: 1000px;
+  margin-top: 10px;
+  width: 450px;
+  border-radius: 8px
+}
+.header{
+  font-size: 26px;
+  margin-top: 50px;
+  margin-left: 80px;
+}
+.button{
+  width: 200px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #343a40;
+  color: white;
+  font-family: helvetica;
+  margin-left: 100px;
+  margin-top: 25px;
+}
+#name{
+  width: 250px;
+  margin-left: 75px;
+  margin-top: 50px;
+}
+#passw{
+  width: 250px;
+  margin-left: 75px;
+}
+
